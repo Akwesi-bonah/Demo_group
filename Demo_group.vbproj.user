@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard\Admin\Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Report\Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Sales\Sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Stocks\Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
